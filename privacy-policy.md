@@ -83,7 +83,7 @@ Only what you send us yourself, for example an email to admin@trekintech.com, or
 - We delete support emails 12 months after the conversation ends, unless we need to keep them longer for a legal reason.
 - Our lawful basis is our legitimate interest in answering you and improving the app.
 
-Our email is provided by our email host, which stores messages on our behalf.
+Our email is provided by Google (Gmail), which stores messages on our behalf.
 
 ## 6. Sharing
 
@@ -108,7 +108,7 @@ Nett is meant for people aged 16 and over. Setup asks for a birth year that make
 
 ## 10. Where data is held
 
-We don't transfer your data anywhere. If you use iCloud Backup or an iOS device backup, Apple may store that encrypted backup in data centres outside the UK, under Apple's privacy policy.
+Nothing you enter in the app is sent to us. If you email us, Google stores the message for us and may hold it in data centres outside the UK, including in the United States, under its own privacy and security terms. If you use iCloud Backup or an iOS device backup, Apple may store that encrypted backup in data centres outside the UK, under Apple's privacy policy.
 
 ## 11. Security
 
