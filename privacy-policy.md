@@ -1,120 +1,127 @@
+---
+title: "Nett: Privacy Policy"
+---
+
 # Nett — Privacy Policy
 
-**Effective date:** 19 April 2026
-**Last updated:** 19 April 2026
+**Last updated:** 8 November 2026
 
-## Plain-English summary
+## The short version
 
-Nett is a UK take-home pay calculator. It runs entirely on your device. The Nett app does not collect, transmit, sell, or share your personal information. There are no Nett accounts, no Nett servers, no analytics, and no advertising trackers. Everything you enter — salary, tax code, pension, saved scenarios — stays in iOS storage on your iPhone or iPad until you delete it.
+Nett works out UK take-home pay and tax on your iPhone or iPad. Everything you enter stays on your device. We don't have servers, accounts, analytics or advertising, and we never see your salary, tax code, payslips or anything else you put into the app.
 
-Two important caveats are described in detail below: (1) if you have iOS's standard **iCloud Backup** enabled, Apple includes Nett's local data in your encrypted device backup along with every other app's data; and (2) when in-app purchases become available, the authoritative record of any purchase is held by **Apple** against your Apple ID, not by us.
+There are three places your data can go, and you control all of them:
 
-If that's all you wanted to know, you're done. The detail below exists to satisfy App Store and UK GDPR requirements.
+- **Your own iCloud**, if you switch on Nett's iCloud Backup (it's off unless you turn it on). We can't see it.
+- **Apple**, which handles any Nett Pro subscription. We never see your payment details or Apple ID.
+- **Wherever you choose to send it**, if you use Share or export something yourself.
+
+The rest of this page gives the detail.
 
 ---
 
 ## 1. Who we are
 
-This app ("Nett", "the app") is published as an independent iOS app on the Apple App Store. References to "we", "us", or "our" in this policy refer to the app's publisher.
+Nett is published by **Michael Andrews, trading as Trekintech**, a sole trader in the United Kingdom. In this policy "we", "us" and "our" mean the publisher.
 
-For privacy enquiries, contact: **admin@trekintech.com**
+- Email: **admin@trekintech.com**
+- Post: Trekintech, The Bristol Office, 2nd Floor, 5 High Street, Westbury-on-Trym, Bristol, BS9 3BY, England
 
-## 2. Information we collect
+## 2. What the app stores, and where
 
-**The Nett app does not collect personal information from you and does not transmit data off your device.**
+### On your device
 
-The app stores the following categories of information **locally on your device only**, using iOS's standard `UserDefaults` storage. None of it is sent to us:
+The app keeps the following in its own storage on your device. None of it is sent to us.
 
-- **Salary and compensation inputs** — annual salary, bonus, commission, car allowance, employee share scheme contributions, pension contributions, benefits in kind.
-- **Tax profile** — UK nation (England, Scotland, Wales, Northern Ireland), tax code, student loan plan, selected tax year, age range derived from a birth year you choose to enter.
-- **Saved scenarios** — job offers, commission plans, deal tracker entries, and any "What If" comparisons you create.
-- **App preferences** — onboarding completion flag, light/dark/system appearance, Simple/Advanced mode preference, whether you have visited certain tabs.
-- **Trial state** — if you start the in-app free trial, the start date is stored locally so the app can determine whether your trial is active.
-- **Purchase entitlement (future)** — if and when in-app purchases become available (see Section 6), the authoritative record of any purchase is held by **Apple** against your Apple ID, not by us. The app may cache a yes/no entitlement flag locally so that Pro features remain available when your device is offline. This cached flag contains no payment details, no identifiers, and no Apple ID information.
+- **Your pay and tax details:** salary, bonus, commission, allowances, pension, share schemes, benefits in kind, tax code, nation, student loans, and a birth year and month if you give them.
+- **Things you set up:** scenarios, job offers, commission plans and deals, mortgages, loans and car finance, property values, pension pots, and a partner's details if you add them for household figures.
+- **Payslip figures you save:** the numbers from a payslip you check (for example gross pay, tax, National Insurance, pension and net pay for that month).
+- **A profile photo,** if you add one.
+- **Preferences:** appearance, reminders you've switched on, which tips you've seen.
+- **On-device usage counts:** simple counts of things like finishing setup or opening the paywall, so the app can show you where people stop. They have no identifiers, never leave your device, and you can view, export or clear them in Account › About & Support › Usage & Diagnostics.
+- **Crash reports from iOS,** if your device shares them with apps. Nett saves them on your device only. They're sent anywhere only if you choose to export them yourself from Usage & Diagnostics, for example to email us about a problem.
 
-This information is held on your device and is accessible only to the Nett app. iOS automatically encrypts app storage when your device is locked with a passcode, Face ID, or Touch ID.
+iOS encrypts the app's storage while your device is locked with a passcode, Face ID or Touch ID.
 
-## 3. How we use information
+### Payslips
 
-The information you enter is used solely to calculate and display your estimated take-home pay and related figures, and to remember your preferences between sessions. It is not transmitted to us or to anyone else by the Nett app.
+When you import a payslip (a PDF, a photo or a screenshot), the app reads it **on your device**. The file isn't uploaded anywhere and isn't kept: once the figures are read, only the numbers you choose to save are stored, as described above.
 
-## 4. Information we share
+### Your own iCloud (optional, off by default)
 
-**The Nett app does not share information with anyone**, because the app does not transmit any data off your device.
+Nett has an optional **iCloud Backup**, which you can switch on in Account › Privacy & Security. When it's on, the app saves a copy of your Nett data, including your profile photo, in **your own private iCloud database** through Apple's CloudKit service, tied to your Apple ID.
 
-We have no servers that could receive your information. We do not sell, rent, or disclose your data. We have no business partners with whom data could be shared.
+- It goes to Apple's iCloud servers, not to us. We have no way to see, read or retrieve it. Only devices signed in to your Apple ID can.
+- It's protected by your Apple ID security, including two-factor authentication, and Apple's iCloud encryption.
+- Switching it off stops future backups. To delete the stored backup, go to iOS Settings › your name › iCloud › Manage Account Storage, choose Nett and delete its data.
+- If you never switch it on, Nett never talks to iCloud.
 
-If you use the **Share Summary** action inside the app, iOS presents its system share sheet and you choose where to send the summary text (for example, Messages, Mail, or Notes). The destination is entirely your choice. Nett does not see, log, intercept, or transmit anything you share — the iOS share sheet hands the text directly to the destination app or service you select.
+Separately, if your device itself is backed up to iCloud or to a computer, iOS includes Nett's data in that backup, as it does for nearly every app. That's run by Apple and your device, not by Nett.
 
-## 5. Permissions and device access
+## 3. Subscriptions
 
-Nett requests **no special device permissions**. It does not access your camera, microphone, location, contacts, photos, calendar, health data, or any other system-protected resource. It does not request permission to track you across apps or websites (App Tracking Transparency).
+Nett Pro is sold through the App Store. **Apple** takes the payment and holds the record of your subscription against your Apple ID. The app asks Apple whether a subscription is active and when it renews or ends; it never receives your name, email, Apple ID or payment details. Restoring a purchase on a new device works the same way.
 
-## 6. Third-party services
+If you start a free trial or have an annual plan, the app schedules a **reminder on your device** before the trial ends or the plan renews. It's a local notification: nothing is sent to us.
 
-Nett does **not** currently integrate any third-party services. The app does not include:
+How Apple handles payments is covered by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
-- analytics or product-usage measurement SDKs;
-- crash- or error-reporting SDKs;
-- advertising or attribution SDKs;
-- social-login or third-party authentication providers;
-- push-notification providers;
-- cloud-sync, real-time database, or backend-as-a-service providers.
+## 4. Permissions the app may ask for
 
-**Future versions** may introduce the following Apple-provided service. If they do, this policy will be updated before that version ships, and the App Store privacy nutrition label will be updated accordingly:
+- **Notifications,** for reminders you switch on (payday, fixed-rate end, share vests, deal dates) and the subscription reminder. They're scheduled on your device.
+- **Face ID or Touch ID,** if you turn on App Lock. iOS checks your face or fingerprint; the app only learns whether it matched.
+- **Photos or Files,** only when you pick a profile photo or a payslip yourself. The app sees just the item you choose.
 
-- **Apple StoreKit (in-app purchases / subscriptions)** — to enable an optional Pro subscription. Apple processes the purchase. The authoritative record of any entitlement is held by Apple against your Apple ID; we receive only an anonymous, signed receipt from Apple confirming yes/no entitlement. We do not see your name, email, payment method, billing address, or Apple ID. To restore purchases on a new device, the app asks Apple's servers via StoreKit; Apple confirms or denies entitlement directly. **This is also why losing your device does not lose your subscription** — your entitlement lives with your Apple ID, and signing in to your Apple ID on a new device and tapping "Restore Purchases" reinstates it. Apple's handling of payment information is described in [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+The app doesn't use your location, contacts, camera, microphone, calendar or health data, and doesn't track you across other apps or websites.
 
-If a future version adds anonymous, aggregate crash reporting, this policy will be amended at that time to name the specific service and to confirm that the data collected does not identify you.
+## 5. What we receive
 
-## 7. Device backups (iCloud and computer)
+Only what you send us yourself, for example an email to admin@trekintech.com, or feedback if you test a pre-release version through Apple's TestFlight.
 
-The Nett app itself does **not** offer or use any iCloud sync, iCloud Drive export, or any other cross-device sync feature. Each device's data is independent.
+- We use it only to reply and fix problems.
+- **Please don't send payslips or other documents with personal details.** If you do, we delete them once your query is sorted.
+- We delete support emails 12 months after the conversation ends, unless we need to keep them longer for a legal reason.
+- Our lawful basis is our legitimate interest in answering you and improving the app.
 
-However, you should be aware of an iOS-level behaviour that applies to almost every iPhone and iPad app, including Nett:
+Our email is provided by our email host, which stores messages on our behalf.
 
-- If you have **iCloud Backup** enabled in iOS (Settings → [your name] → iCloud → iCloud Backup), Apple periodically backs up the contents of your device — including the local data of installed apps — to your iCloud account. This backup is encrypted in transit and at rest by Apple, and only you, signed in to your Apple ID, can restore from it.
-- If you back up your device to a Mac or PC using Finder or iTunes, app data is included in that backup in the same way.
+## 6. Sharing
 
-These backups are a feature of iOS and Apple's services, not of Nett. We do not implement, configure, schedule, or have any access to them. Apple's handling of iCloud Backup is described in [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+We don't sell, rent or share your information, because we don't have it. If you use **Share** or an export in the app, iOS shows its share sheet and the content goes only where you choose.
 
-You can exclude Nett specifically from iCloud Backup in iOS Settings → [your name] → iCloud → Manage Account Storage → Backups → [this device] → toggle Nett off. You can also disable iCloud Backup entirely from the same area.
+## 7. Keeping and deleting your data
 
-## 8. Children
+Your data stays on your device until you delete it:
 
-Nett is intended for users aged 16 and over. The onboarding flow validates that the birth year you enter places you at least 16 years old. We do not knowingly collect any information from children under 16. Because we do not collect any personal information at all, this restriction is operational rather than data-based.
+- **In the app:** Account › Start again clears your data. If you use iCloud Backup, also delete the backup from iOS Settings › your name › iCloud › Manage Account Storage › Nett.
+- **By deleting the app:** iOS removes the app's storage. Older device backups held by Apple age out under your iCloud settings.
 
-## 9. Data retention and deletion
+## 8. Your rights
 
-Information you enter remains on your device until you delete it. You can delete it in two ways:
+UK data protection law (the UK GDPR and the Data Protection Act 2018) gives you rights to see, correct, delete, restrict, move or object to personal data held about you. For everything inside the app, you hold the data and can change or delete it at any time. For anything you've sent us, such as an email, contact us and we'll help.
 
-1. **Inside the app:** open Settings → "Reset & Start Over" to clear all stored profile data, scenarios, and preferences.
-2. **From iOS:** delete the Nett app. iOS removes all of the app's local storage when the app is uninstalled.
+If you're unhappy with how we've handled your information, you can complain to the **Information Commissioner's Office**: [ico.org.uk/make-a-complaint](https://ico.org.uk/make-a-complaint) or 0303 123 1113. We'd appreciate the chance to put it right first.
 
-Because we hold no personal data on our side, there is nothing for us to delete on your behalf and no server-side records to purge. If you have iCloud Backup enabled, deleting the app from your device does not immediately delete it from older device backups held by Apple; those backups age out according to Apple's retention rules and your iCloud settings, which you control directly with Apple.
+## 9. Children
 
-## 10. Your rights under UK GDPR
+Nett is meant for people aged 16 and over. Setup asks for a birth year that makes you at least 16.
 
-The UK General Data Protection Regulation and the Data Protection Act 2018 give you rights over personal data held about you, including the rights of access, rectification, erasure, restriction, portability, and objection. Because the Nett app does not collect or hold any personal data about you on our side, **we have no records to which these rights could apply**. You exercise the practical equivalents of these rights yourself, on your own device, by editing or deleting your inputs at any time.
+## 10. Where data is held
 
-If you believe we are nonetheless processing personal data about you, please contact us at the address in Section 1. You may also lodge a complaint with the UK Information Commissioner's Office at https://ico.org.uk.
+We don't transfer your data anywhere. If you use iCloud Backup or an iOS device backup, Apple may store that encrypted backup in data centres outside the UK, under Apple's privacy policy.
 
-## 11. International users
+## 11. Security
 
-Because the Nett app does not transmit data from your device, no international data transfers are made by us, and no jurisdictional rules about cross-border data flows are engaged on our side. If you have iCloud Backup enabled, Apple may store your encrypted backup in data centres outside the UK; that processing is governed by Apple's privacy policy.
+Your data is as secure as your device. We recommend a device passcode with Face ID or Touch ID, Nett's App Lock if you want an extra step, and two-factor authentication on your Apple ID if you use iCloud Backup.
 
-## 12. Security
+## 12. Not advice
 
-Your data is protected by the security of your iOS device. We strongly recommend that you set a device passcode and enable Face ID or Touch ID, so that iOS encrypts app storage when the device is locked. If you use iCloud Backup, we recommend enabling two-factor authentication on your Apple ID.
+Nett is a calculation tool. Its figures are estimates based on HMRC's published rules for the selected tax year and the details you enter. They aren't financial, tax, legal or investment advice.
 
-## 13. Disclaimers
+## 13. Changes to this policy
 
-Nett is a calculation tool. The figures it produces are estimates based on UK tax rules as published by HMRC for the selected tax year. They are illustrative only and **do not constitute financial, tax, legal, or investment advice**. You should consult a qualified professional before making decisions based on the figures shown.
+If the app starts handling data differently, we'll update this page before that version is released, change the date at the top, and for significant changes tell you in the app.
 
-## 14. Changes to this policy
+## 14. Contact
 
-We may update this policy when the app's behaviour changes (for example, when in-app purchases are introduced). When we do, we will update the "Last updated" date at the top of this page and, for material changes, surface a notice in the app on next launch. The change history is publicly visible in the app's source repository.
-
-## 15. Contact
-
-For privacy questions, please contact: **admin@trekintech.com**
+**admin@trekintech.com** · Trekintech, The Bristol Office, 2nd Floor, 5 High Street, Westbury-on-Trym, Bristol, BS9 3BY, England
