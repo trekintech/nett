@@ -4,7 +4,7 @@ title: "Nett: Terms of use"
 
 # Nett: Terms of use
 
-**Last updated:** 8 November 2026
+**Last updated:** 9 November 2026
 
 ## 1. Who we are
 
@@ -29,8 +29,9 @@ Everything you enter stays on your device. If you switch on iCloud Backup, a cop
 
 - Nett Pro is a subscription sold through the App Store: £1.99 a month or £9.99 a year, with a 30-day free trial for new subscribers. Apple takes the payment and shows you the price in your currency before you confirm.
 - It renews automatically at the end of each period until you cancel. You can cancel at any time in the app (Account › Nett Pro › Manage) or in iOS Settings › your name › Subscriptions. Cancel at least 24 hours before the renewal date to avoid the next charge; you keep Pro until the end of the period you've paid for.
-- Before a free trial ends or an annual plan renews, the app reminds you on your device.
-- Refunds are handled by Apple at [reportaproblem.apple.com](https://reportaproblem.apple.com). If something has gone wrong, email us too and we'll help.
+- The app reminds you on your device 3 days before a free trial ends, 7 days before a yearly plan renews, and every 6 months on a monthly plan.
+- You can cancel within 14 days of subscribing, of your first payment after a free trial, and of each yearly renewal, and get a refund for the time you haven't used. When a trial turns into a paid plan or a yearly plan renews, the app tells you the last day to do this.
+- Refunds are handled by Apple: in the app use Account › Nett Pro › Request a refund, or go to [reportaproblem.apple.com](https://reportaproblem.apple.com). If something has gone wrong, email us too and we'll help.
 
 ## 6. Your rights
 

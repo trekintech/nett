@@ -4,7 +4,7 @@ title: "Nett: Privacy Policy"
 
 # Nett — Privacy Policy
 
-**Last updated:** 8 November 2026
+**Last updated:** 9 November 2026
 
 ## The short version
 
@@ -41,7 +41,7 @@ The app keeps the following in its own storage on your device. None of it is sen
 - **On-device usage counts:** simple counts of things like finishing setup or opening the paywall, so the app can show you where people stop. They have no identifiers, never leave your device, and you can view, export or clear them in Account › About & Support › Usage & Diagnostics.
 - **Crash reports from iOS,** if your device shares them with apps. Nett saves them on your device only. They're sent anywhere only if you choose to export them yourself from Usage & Diagnostics, for example to email us about a problem.
 
-iOS encrypts the app's storage while your device is locked with a passcode, Face ID or Touch ID.
+With a passcode set, iOS encrypts the app's storage on the device. As with most apps, the data can be read by the device once it has been unlocked after a restart, so keep your passcode to yourself.
 
 ### Payslips
 
@@ -53,8 +53,8 @@ Nett has an optional **iCloud Backup**, which you can switch on in Account › P
 
 - It goes to Apple's iCloud servers, not to us. We have no way to see, read or retrieve it. Only devices signed in to your Apple ID can.
 - It's protected by your Apple ID security, including two-factor authentication, and Apple's iCloud encryption.
-- Switching it off stops future backups. To delete the stored backup, go to iOS Settings › your name › iCloud › Manage Account Storage, choose Nett and delete its data.
-- If you never switch it on, Nett never talks to iCloud.
+- Switching it off stops future backups. Account › Start again deletes the backup that phone made as well as the data on it. You can also delete it in iOS Settings › your name › iCloud › Manage Account Storage › Nett.
+- If you never switch it on, Nett only contacts iCloud if you tap Restore from iCloud backup on the first screen, to look for a backup.
 
 Separately, if your device itself is backed up to iCloud or to a computer, iOS includes Nett's data in that backup, as it does for nearly every app. That's run by Apple and your device, not by Nett.
 
@@ -93,7 +93,7 @@ We don't sell, rent or share your information, because we don't have it. If you 
 
 Your data stays on your device until you delete it:
 
-- **In the app:** Account › Start again clears your data. If you use iCloud Backup, also delete the backup from iOS Settings › your name › iCloud › Manage Account Storage › Nett.
+- **In the app:** Account › Start again deletes your data on the phone and the iCloud Backup that phone made, if any.
 - **By deleting the app:** iOS removes the app's storage. Older device backups held by Apple age out under your iCloud settings.
 
 ## 8. Your rights
